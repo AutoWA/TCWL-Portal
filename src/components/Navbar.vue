@@ -27,7 +27,7 @@
     <v-spacer></v-spacer>
 
     <v-btn href="http://47.92.91.148" target="_blank" text>
-      <span class="mr-2">OJ平台</span>
+      <span class="mr-2">童创未来OJ平台</span>
       <v-icon>mdi-open-in-new</v-icon>
     </v-btn>
   </v-app-bar>
